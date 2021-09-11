@@ -1,0 +1,34 @@
+.jumbotron{
+    height: 300px;
+    background-image: url('http://d279m997dpfwgl.cloudfront.net/wp/2020/12/GettyImages-1150049038-1000x630.jpg');
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 25px;
+}
+.jumbotron div{
+    height: 100%;
+    width: 100vw;
+    color: aliceblue;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-shadow: 1px 3px 2px black;
+}
+.col-md-12{
+    font-size: 45px;
+    color: red;
+    text-align: center;
+}
+.filme{
+    border: 1px solid #CCC;
+    padding: 10px;
+    background-color: #EEE;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.filme img{
+    width: 100%;
+    margin-bottom: 10px;
+}
